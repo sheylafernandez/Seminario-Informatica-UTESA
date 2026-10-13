@@ -1,0 +1,13 @@
+Universidad Tecnológica de Santiago (UTESA)
+Asignatura: Seminario de Informática
+Práctica: Creación de repositorio en GitHub
+
+Objetivo:
+Crear un repositorio público en GitHub utilizando
+las ramas main y dev.
+
+Rama main: Rama principal del proyecto.
+Rama dev: Rama de desarrollo.
+
+Este archivo demuestra cómo agregar archivos
+y registrar cambios en un repositorio de GitHub.
